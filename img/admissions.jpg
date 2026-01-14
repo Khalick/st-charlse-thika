@@ -1,0 +1,9 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#134b61"/>
+  <rect x="100" y="80" width="200" height="120" rx="10" fill="white"/>
+  <rect x="120" y="100" width="160" height="15" rx="3" fill="#1a5f7a"/>
+  <rect x="120" y="130" width="120" height="10" rx="3" fill="#ccc"/>
+  <rect x="120" y="150" width="140" height="10" rx="3" fill="#ccc"/>
+  <rect x="120" y="170" width="100" height="10" rx="3" fill="#ccc"/>
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white">Admissions</text>
+</svg>

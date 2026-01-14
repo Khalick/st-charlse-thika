@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#1a5f7a"/>
+  <rect x="50" y="80" width="300" height="20" rx="5" fill="#ffc107"/>
+  <rect x="50" y="120" width="250" height="20" rx="5" fill="#28a745"/>
+  <rect x="50" y="160" width="280" height="20" rx="5" fill="#ffc107"/>
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="white">Curriculum</text>
+</svg>

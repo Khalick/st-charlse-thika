@@ -1,0 +1,7 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#ffc107"/>
+  <circle cx="100" cy="150" r="50" fill="#1a5f7a"/>
+  <circle cx="200" cy="100" r="40" fill="#28a745"/>
+  <circle cx="300" cy="150" r="50" fill="#1a5f7a"/>
+  <text x="50%" y="85%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#1a5f7a">Extra Curricular</text>
+</svg>
